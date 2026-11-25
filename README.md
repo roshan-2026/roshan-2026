@@ -113,7 +113,6 @@ active_buffs: ["Continuous Learning", "High Focus", "Coffee Boost"]
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%"/>
 </div>
 
-> *Note: Generated automatically everyday at 18:00 UTC via GitHub Actions.*
 
 ---
 
@@ -132,12 +131,16 @@ active_buffs: ["Continuous Learning", "High Focus", "Coffee Boost"]
 ### 📬 Connect With Me
 
 <div align="center">
-  <a href="mailto:roshan.nishad2026@lpu.in">
+  <a href="mailto:nishadramashish81@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/roshan-2026">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://instagram.com/i.am_r.k_/" target="_blank" height>
+  <img src="https://github.com/prashantbuilds/instagram-logo/blob/main/readme-images/Instagram-Logo.png" height="30px" alt="Instagram" />
+</a>
+
 </div>
 
 <br/>
