@@ -2,7 +2,7 @@
 
 <!-- Header Dynamic Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=210&section=header&text=Roshan%20Nishad&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=B.Tech_CSE%20@%20LPU%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Open%20Source%20Explorer&descSize=20&descAlignY=62" width="100%"/>
-
+<img src="https://github.com/roshan-2026/roshan-2026/blob/main/logo.png" width="100%">
 <!-- Interactive Typing SVG -->
 <a href="https://github.com/roshan-2026">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=22C55E&center=true&vCenter=true&width=600&lines=%2Fgive+%40self+manifesto;Most+people+wait+for+the+blueprint...;I+punch+trees+first%2C+craft+recipes+later.;Building+intelligent+software+%26+modern+UIs." alt="Typing SVG" />
