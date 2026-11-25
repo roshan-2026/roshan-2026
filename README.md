@@ -137,9 +137,12 @@ active_buffs: ["Continuous Learning", "High Focus", "Coffee Boost"]
   <a href="https://github.com/roshan-2026">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/i.am_r.k_/" target="_blank" height>
-  <img src="https://github.com/prashantbuilds/instagram-logo/blob/main/readme-images/Instagram-Logo.png" height="30px" alt="Instagram" />
-</a>
+  <a href="https://www.linkedin.com/in/roshan-nishad-cse-btech/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/i.am_r.k_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
 </div>
 
